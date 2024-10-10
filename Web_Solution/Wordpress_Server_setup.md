@@ -37,6 +37,8 @@ Create a single partition on each of the 3 disks
 
 ```powershell
 sudo gdisk /dev/xvdb
+sudo gdisk /dev/xvdb
+sudo gdisk /dev/xvdb
 ```
 
 Type n to create a new partition.  
