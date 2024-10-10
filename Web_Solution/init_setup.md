@@ -1,6 +1,8 @@
 # Web Solutions with Wordpress
 
-In this project you will be tasked to prepare storage infrastructure on two Linux servers and implement a basic web solution using Wordpress.
+This guide outlines the steps for setting up storage infrastructure on two OpenHat servers. One server will be dedicated to hosting a basic web solution, while the other will host a MySQL database. Both servers will be configured to ensure optimal storage management, reliability, and performance.
+
+Prerequisites
 
 The project consists of 2 parts:
 
@@ -11,5 +13,5 @@ The project consists of 2 parts:
 ## Your 3-Tier Setup
 
 1. A laptop or PC to serve as a client.
-
 2. An EC2 linux server as a web server(This is where you will install wordpress)
+3. An EC2 Server for the Database
