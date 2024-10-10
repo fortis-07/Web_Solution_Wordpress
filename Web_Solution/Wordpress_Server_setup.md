@@ -1,4 +1,4 @@
-# Step 1
+# Step 1: WebServer Setup
 
 Launch an EC2 instance that will serve as 'web server'. Create 3 volumes in the same AZ as your web server EC2, each of 10 Gib
 
