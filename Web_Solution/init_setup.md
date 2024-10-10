@@ -1,5 +1,9 @@
 # Web Solutions with Wordpress
 
+
+![image](https://github.com/user-attachments/assets/d6ff4544-3168-4f4c-bb88-8af08411c7c3)
+
+
 This guide outlines the steps for setting up storage infrastructure on two OpenHat servers. One server will be dedicated to hosting a basic web solution, while the other will host a MySQL database. Both servers will be configured to ensure optimal storage management, reliability, and performance.
 
 Prerequisites
